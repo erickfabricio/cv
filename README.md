@@ -17,6 +17,13 @@
 - Reconocimientos
 
 ------------
+Carpetas 
+
+css: Compiente el tema del sitio resume.css
+download: Contiene los archivos docx o pdf para su descarga.
+img: Images del sitio.
+
+------------
 #### Autor
 [Erick Fabricio Martínez Castellanos](https://erickfabricio.com)
 
